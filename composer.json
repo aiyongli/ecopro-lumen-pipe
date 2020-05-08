@@ -1,0 +1,20 @@
+{
+    "name": "aiyongli/ecopro-lumen-pipe",
+    "description": "ecopro php lumen pipe proxy",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liaiyong",
+            "email": "aiyong.li@ecoprobio.cn"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ecopro\\Pipe\\": "src/"
+        }
+    },
+    "autoload-dev": {
+    },
+    "require": {
+    }
+}
